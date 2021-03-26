@@ -1,3 +1,8 @@
 
 
-1\ 展示的是使用线程join
+1\ 展示的是使用线程join--DemoJoin
+2\ 信号量--DemoSemaphore
+3\ 利用Executors线程池--DemoExecutors;根据添加的循序执行
+4\ Lock/Condition
+5\ 线程的CountDownLatch（倒计数）方法
+6\ CyclicBarrier(回环栅栏)实现线程按顺序运行
