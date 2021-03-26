@@ -5,4 +5,4 @@
 3\ 利用Executors线程池--DemoExecutors;根据添加的循序执行
 4\ Lock/Condition
 5\ 线程的CountDownLatch（倒计数）方法
-6\ CyclicBarrier(回环栅栏)实现线程按顺序运行
+6\ CyclicBarrier(回环栅栏)实现线程按顺序运行（error:还有点问题）
